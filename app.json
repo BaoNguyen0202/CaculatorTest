@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Caculator",
+    "slug": "Caculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Caculator"
+}
